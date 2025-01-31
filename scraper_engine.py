@@ -210,7 +210,6 @@ def scraper_engine() -> bool:
                         prepare_data(Contents, row.text)
                 product_driver.quit()
                 append_to_csv(Contents, csv_file)
-                #if idx == 1: break
             except Exception:
                 print('error')
         site_driver.quit()

@@ -16,3 +16,16 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 
 # Build from sources
 1. Clone the repo
+   ```git
+   git clone https://github.com/SajjadHossain43/Project--Web-scraping---Visualization-.git
+   ```
+2. Create and activate virtual environment
+   ```git
+   virtualenv --no-site-packages venv
+   ```
+3. Install dependencies
+   ```git
+   pip install -r requirements.txt
+   ```
+4. Run the scraper
+   

@@ -27,5 +27,7 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
    ```git
    pip install -r requirements.txt
    ```
-4. Run the scraper
+4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads
+5. Run the scraper
+6. You will get a file named LaptopSalesData.csv containing all the required fields.
    
